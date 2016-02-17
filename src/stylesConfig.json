@@ -1,0 +1,11 @@
+{
+	infoWidth: "323px",
+	infoHeight: "337px",
+	background: "url('../img/comp_plate_graybasic.png') no-repeat center",
+	contentHeight: "279px",
+	imgWidth: "319px",
+	imgHeight: "200px",
+	descrInitHeight: "25px",
+	descrMaxHeight: "80px",
+	noteMaxHeight: "140px"
+}

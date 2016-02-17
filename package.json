@@ -1,0 +1,27 @@
+{
+  "name": "epam_task",
+  "version": "1.0.0",
+  "description": "Middle test task",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dashko D.",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^12.0.1",
+    "detached-jquery-1.11.3": "^1.11.3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-open": "^1.0.0",   
+    "jss": "^3.2.0",
+    "jss-nested": "^1.0.1",
+    "jss-vendor-prefixer": "^1.0.1",    
+    "react": "^0.14.3",   
+    "react-dom": "^0.14.3",
+    "react-jss": "^2.0.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
